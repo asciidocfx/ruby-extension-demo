@@ -1,3 +1,5 @@
 == GlobIncludeProcessor Demo (Ruby)
 
+This demo shows the usage Asciidoctor Ruby extensions in AsciidocFX. Extension originally available on https://github.com/asciidoctor/asciidoctor-extensions-lab/tree/main/lib/glob-include-processor
+
 include::include-*.adoc[foo,bar]
