@@ -1,0 +1,3 @@
+== GlobIncludeProcessor Demo (Ruby)
+
+include::include-*.adoc[foo,bar]
